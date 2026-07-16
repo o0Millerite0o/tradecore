@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+
+# Java / Maven
+target/
+*.class
+
+# Logs
+*.log
+
+# Obsidian
+.obsidian/workspace.json
