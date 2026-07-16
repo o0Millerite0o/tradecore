@@ -3,7 +3,6 @@
 **Fecha de creación:** 15/07/2026 
 **Última actualización:** 15/07/2026 
 **Autor:** Miler Ayarza 
-**Revisor:** ChatGPT (Tutor Java Backend)
 
 ---
 
