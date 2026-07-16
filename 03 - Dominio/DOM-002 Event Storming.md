@@ -1,3 +1,10 @@
+**Versión:** 1.0 
+**Estado:** En elaboración 
+**Fecha de creación:** 15/07/2026 
+**Última actualización:** 15/07/2026 
+**Autor:** Miler Ayarza 
+
+---
 
 ## Objetivo
 
@@ -320,3 +327,10 @@ Pendiente:
 - Definir entidades.
 - Crear relaciones.
 - Diseñar arquitectura basada en bounded contexts.
+
+# Historial de cambios
+
+| Versión | Fecha      | Autor        | Descripción            |
+| ------- | ---------- | ------------ | ---------------------- |
+| 1.0     | 15/07/2026 | Miler Ayarza | Creación del documento |
+

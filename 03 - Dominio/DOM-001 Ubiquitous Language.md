@@ -96,3 +96,9 @@ Una vez aprobado DOM-001, continuaremos con:
 **DOM-002 - Event Storming del dominio**
 
 Ahí identificaremos los eventos de negocio, comandos, actores, agregados y límites del dominio. Ese ejercicio será la base para definir los Bounded Contexts y, posteriormente, la arquitectura de TradeCore.
+
+# Historial de cambios
+
+| Versión | Fecha      | Autor        | Descripción            |
+| ------- | ---------- | ------------ | ---------------------- |
+| 1.0     | 15/07/2026 | Miler Ayarza | Creación del documento |
