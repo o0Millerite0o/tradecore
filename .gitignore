@@ -13,3 +13,7 @@ target/
 
 # Obsidian
 .obsidian/workspace.json
+
+# Generated files
+*.zip
+
